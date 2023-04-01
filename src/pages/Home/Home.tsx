@@ -13,8 +13,10 @@ const Home : React.FC<HomeProps> = () => {
 	}, [])
 	
 
-	return (
+	return (<>
 			<PeopleTable />
+			
+			</>
 		);
 };
 
