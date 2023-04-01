@@ -20,7 +20,7 @@ const Navbar : React.FC<NavbarProps> = () => {
 		  <AppBar position="fixed">
 			<Toolbar>
 			  <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-				Practica de programación React + Typescript
+				Practica de programación React + Typescript + MUI
 			  </Typography>
 			  <Button 
 			  	onClick={handleClick}
